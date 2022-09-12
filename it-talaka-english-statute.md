@@ -213,3 +213,37 @@ The General Assembly is the supreme body of the Association. Every full member p
   8. Decision on the (non)admission of potential members in the sense of §3c, section 5, who have been rejected by the extended board in the sense of §9.
   9. Establishment and dissolution of working groups. The General Assembly may adopt rules of procedure for working groups and/or make further provisions. Each working group must have a contact person who keeps the Executive Board and the General Assembly regularly informed about significant activities and developments.
   10. Election of the auditors according to §18.
+
+# § 14 Convening the General Assembly, Video Conference
+
+At least once a year, if possible in the last quarter, the ordinary General Assembly shall take place. It shall be convened by the Executive Board in accordance with § 7 by giving two weeks' notice in text form, stating the agenda and enclosing the motions available at that time. The period shall commence on the working day following the dispatch of the invitation. The letter of invitation shall be deemed to have been received by the member if it was sent to the last electronic address notified to the Association by the member in text form. The proposal for the agenda is set by the extended board by resolution. The dates of the General Assembly should be announced at least 4 weeks in advance, this can be waived in urgent cases.
+
+The meeting can also be held as a (partial or) video conference. This must already be stated in the invitation. It must be carried out without video technology if the majority of the members demands this up to 1 week before the meeting in text form or if the majority of the members present at the (partial or) video conference demands the breaking off of the meeting and the continuation without video technology. In this case, a further members' meeting without video technology must be convened within one week and must be held within four weeks of the aborted members' meeting.
+
+# § 15 Chairmanship, Minutes and Resolutions of the General Assembly
+
+The General Assembly shall be chaired by a member of the executive board as defined in §7. If no member of the Executive Board as defined in § 7 is present, the meeting shall appoint the chairman of the meeting.
+
+The minutes shall be kept by a minute-taker elected by the meeting.
+
+At the beginning of the meeting, the meeting adopts the agenda.
+
+Every properly convened General Assembly has a quorum, regardless of the number of members present.
+
+The General Assembly shall pass resolutions - unless otherwise stipulated in these Articles of Association - by a simple majority of the valid votes cast; abstentions shall not be taken into account.
+
+A majority of two-thirds of the valid votes cast is required to amend the Articles of Association (including the purpose of the Association), and a majority of four-fifths of the valid votes cast is required to dissolve the Association.
+
+The following shall apply to elections: If no candidate has achieved a majority of the valid votes cast in the first round of voting, a run-off election shall be held between the candidates who have achieved the two highest numbers of votes.
+
+The manner of voting shall be determined by the chairman of the meeting. The vote must be conducted by secret ballot if one third of the voting members present at the vote request this. 
+
+Minutes are to be taken of the resolutions of the General Assembly, which are to be signed by the respective chairman of the meeting and the keeper of the minutes. It should contain the following statements: Place and time of the meeting, the person of the chairman of the meeting and the keeper of the minutes, the number of members present, the agenda, the individual voting results and the type of voting. In the case of amendments to the Articles of Association, the provision to be amended must be stated.
+
+The General Assembly is not public. The chairman of the meeting may admit guests. The General Assembly decides on the admission of the press, radio and television.
+
+# § 16 Agenda of the General Assembly
+
+Every member has the right to propose motions for resolutions or for discussion at the General Assembly by notifying the Executive Board in text form in accordance with § 7. This should be done as early as possible and before the invitation. The Executive Board must include the motions received by the day before the invitation is sent in the proposal for the agenda.
+
+Each member may also request in text form that agenda items be subsequently added to the agenda after the invitation has been sent, no later than one week before the day of the General Assembly, by the Executive Board in accordance with § 7. The Executive Board pursuant to § 7 must send the correspondingly supplemented agenda, including the new motions, in text form to all members at least five days before the day of the meeting. Resolutions may only be passed on items that were named in the original or supplemented agenda. Proposals for amendments or additions are also possible in the General Assembly. Amendments to the Articles of Association, the dissolution of the Association and the election and dismissal of members of the Executive Board can only be resolved if a corresponding item on the agenda has already been announced to the members with the proposal for the agenda attached to the ordinary invitation in accordance with § 14.
