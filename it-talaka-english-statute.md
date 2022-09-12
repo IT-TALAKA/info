@@ -89,14 +89,18 @@
   the General Assembly by the extended board according to § 7. Acceptance of honorary membership shall be made in text form. 
   Honorary members have the right to vote immediately after acceptance of honorary membership. 
   Honorary membership is reserved exclusively for natural persons.
-  4. The extended board decides on the
-acceptance of the applicant according to
-§ 9 at the next possible time, at the latest
-within a period of eight weeks from
-receipt of the application. Immediately
-after the decision, the executive board
-according to § 7 confirms the admission
-to the applicant in text form or informs
-the applicant in text form about the
-necessity of a decision of the General
-Assembly according to § 3c No 5.
+  4. The extended board decides on the acceptance of the applicant according to § 9 at the next possible time, 
+  at the latest within a period of eight weeks from receipt of the application. Immediately after the decision, 
+  the executive board according to § 7 confirms the admission to the applicant in text form or informs the applicant in text form about 
+  the necessity of a decision of the General Assembly according to § 3c No 5.
+  5. In case of rejection of membership by the extended board according to § 9, the General Assembly following the rejection 
+  shall decide on the application of the applicant for membership. The Board shall notify the applicant of the result in text form
+  within one week of the decision of the General Assembly.
+  6. After or with the confirmation of the admission by the board, the member receives the request to transfer 
+  the admission fee and the first membership fee.
+  7. Membership shall commence on the day of the confirmation of admission in text form by the Executive Board, but no earlier 
+  than after the complete receipt of payment of the admission fee and the first membership fee.
+  8. The board is obliged to confirm the receipt of the full payment of the admission fee and the first membership fee 
+  to the new member as soon as possible, but no later than 2 weeks after receipt of payment in text form.
+  9. The voting right is entitled to the new member of the association from the day of membership.
+  10. There is no legal claim to membership.
