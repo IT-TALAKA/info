@@ -120,3 +120,31 @@
   2. Voluntary resignation shall be effected by a declaration in text form to the Executive Board. 
   Membership fees already paid will not be refunded, membership fees already due must be paid. The extended board according to §9 can waive the collection of due membership fees. A member can be deleted from the membership list by decision of the board if he/she is in arrears with the payment of the membership fee despite two reminders. The member must be informed of the deletion in text form. A member can be excluded from the association by resolution of the General Assembly if he has grossly violated the interests of the association. Before the resolution is passed, the member must be given the opportunity to justify himself/herself personally. A possible statement of the person concerned in text form is to be read out in the General Assembly.
   3. Membership shall end upon the death of the member, in the case of voluntary resignation upon receipt of the declaration by the Executive Board, in the case of deletion from the list of members or exclusion upon receipt of the corresponding notification by the member, and in the case of dissolution of legal entities upon their dissolution
+
+# §5 Membership fees
+
+  1. Upon admission to the Association, an admission fee shall be paid. The amount of the fee to be paid for full and sustaining members shall be decided by the General Assembly.
+  2. Ordinary and supporting members of the Association are obliged to pay an annual membership fee. The amount of the membership fee to be paid shall be decided by the General Assembly; it may determine different amounts for natural persons on the one hand and legal entities, dependent foundations and associations without legal personality on the other hand. The amount of the membership fee for legal entities, dependent foundations and associations without legal personality is understood to be a minimum amount; the member may voluntarily commit to a higher payment in writing.
+  3. The membership fee is to be paid annually in Euro by February 28, any conversion or transfer fees are to be borne by the sender.
+
+# §6 Organs of the association
+
+  Organs of the association are
+
+  1. the Executive Board (§ 7)
+  2. the Extended Board (§ 9)
+  3. the General Assembly (§ 13)
+
+# §7 The Executive Board
+
+The executive board of the Belarus Worldwide Union "IT-Talaka" e.V. in the sense of § 26 BGB consists of at least 3 members, of it at least one treasurer. If the number of members falls below 3 due to resignation or any other reason, the executive board is considered to be duly constituted until the next General Assembly. The executive board of the Belarus Worldwide Union "IT-Talaka" e.V. shall for the purpose of the world-wide representation of the members regularly consist of maximally 5 persons, of it at least 1 treasurer. The Extended Board and the General Assembly shall actively work in the election of the Board to ensure that the regions represented in the Association are represented in the Board. In this way, the decentralized nature of the association's structure should be made clear.
+
+For a legally secure and practicable management of the association, at least one board member must have his/her habitual legal residence in Germany; in addition, a second board member must have his/her habitual legal residence in the European Union and be authorized to come to Germany at any time under residence law.
+
+The Executive Board thus regularly consists of up to 5 members, at least one of whom must be a member with habitual legal residence in Germany and another member with habitual legal residence in the European Union. 
+
+If the last member of the Executive Board with habitual residence in Germany or the last member of the Executive Board with habitual residence in the European Union resigns before the end of the term of office, a by-election in accordance with § 8, sentence 3 is required. 
+
+The Executive Board shall decide by resolution with a simple majority. Resolutions shall be recorded in text form and kept on file.
+
+The Executive board represents the association judicially and extrajudicially. The members of the board have equal rights and are each authorized to represent the association individually. In-itself transactions in the sense of § 181 BGB, in which one or more board members are involved, are only permitted with prior approval by resolution of the extended board in the sense of § 9. For legal transactions with a financial volume of 5,000 euros or more, the Executive Board must be jointly represented by at least 2 Executive Board members in accordance with § 7.
