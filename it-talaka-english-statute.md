@@ -170,7 +170,7 @@ The General Assembly may, by resolution, limit the power of representation of th
 The General Assembly is the supreme body of the Association. Every full member present at the general assembly has one vote; this also applies to honorary members. Supporting members do not have the right to vote in the general assembly. They have the right to vote with regard to the request for the holding of an extraordinary general assembly in accordance with [§ 17](#-17-extraordinary-general-assembly) sentence 2 third alternative. The General Assembly is responsible in particular for the following matters:
 
   1. Acceptance of the annual report of the executive board and the extended board; discharge of the members of the executive board according to [§ 7](#7-the-executive-board) and the assessors according to [§ 9](#-9-assessors-and-extended-board-management-board).
-  2. Acceptance of the report of the treasurer and the auditors according to § 18.
+  2. Acceptance of the report of the treasurer and the auditors according to [§ 18](#-18-election-of-the-cash-auditors).
   3. Determination of the amount and due date of the annual membership fee, the admission fee as well as decisions on expense allowances and remunerations.
   4. Election and dismissal of the members of the executive board as well as the assessors.
   5. Resolutions on the amendment of the Articles of Association and on the dissolution of the Association.
@@ -178,25 +178,25 @@ The General Assembly is the supreme body of the Association. Every full member p
   7. Confirmation or adoption of the rules of procedure of the extended board in terms of [§ 9](#-9-assessors-and-extended-board-management-board).
   8. Decision on the (non)admission of potential members in the sense of §3c, section 5, who have been rejected by the extended board in the sense of §9.
   9. Establishment and dissolution of working groups. The General Assembly may adopt rules of procedure for working groups and/or make further provisions. Each working group must have a contact person who keeps the Executive Board and the General Assembly regularly informed about significant activities and developments.
-  10. Election of the auditors according to § 18.
+  10. Election of the auditors according to [§ 18](#-18-election-of-the-cash-auditors).
 
 # § 14 Convening the General Assembly, Video Conference
 
-At least once a year, if possible in the last quarter, the ordinary General Assembly shall take place. It shall be convened by the Executive Board in accordance with [§ 7](#7-the-executive-board) by giving two weeks' notice in text form, stating the agenda and enclosing the motions available at that time. The period shall commence on the working day following the dispatch of the invitation. The letter of invitation shall be deemed to have been received by the member if it was sent to the last electronic address notified to the Association by the member in text form. The proposal for the agenda is set by the extended board by resolution. The dates of the General Assembly should be announced at least 4 weeks in advance, this can be waived in urgent cases.
+At least once a year, if possible in the last quarter, the ordinary General Assembly shall take place. It shall be convened by the Executive Board in accordance with [§ 7](#7-the-executive-board) by giving two weeks' notice in text form, stating the agenda and enclosing the motions available at that time. The period shall commence on the working day following the dispatch of the invitation. The letter of invitation shall be deemed to have been received by the member if it was sent to the last electronic address notified to the Association by the member in text form. The proposal for the agenda is set by the [Extended Board](#-9-assessors-and-extended-board-management-board)by resolution. The dates of the [General Assembly](#-13-the-general-assembly) should be announced at least 4 weeks in advance, this can be waived in urgent cases.
 
 The meeting can also be held as a (partial or) video conference. This must already be stated in the invitation. It must be carried out without video technology if the majority of the members demands this up to 1 week before the meeting in text form or if the majority of the members present at the (partial or) video conference demands the breaking off of the meeting and the continuation without video technology. In this case, a further members' meeting without video technology must be convened within one week and must be held within four weeks of the aborted members' meeting.
 
 # § 15 Chairmanship, Minutes and Resolutions of the General Assembly
 
-The General Assembly shall be chaired by a member of the executive board as defined in §7. If no member of the Executive Board as defined in [§ 7](#7-the-executive-board) is present, the meeting shall appoint the chairman of the meeting.
+The [General Assembly](#-13-the-general-assembly) shall be chaired by a member of the executive board as defined in [§ 7](#7-the-executive-board). If no member of the Executive Board as defined in [§ 7](#7-the-executive-board) is present, the meeting shall appoint the chairman of the meeting.
 
 The minutes shall be kept by a minute-taker elected by the meeting.
 
 At the beginning of the meeting, the meeting adopts the agenda.
 
-Every properly convened General Assembly has a quorum, regardless of the number of members present.
+Every properly convened [General Assembly](#-13-the-general-assembly) has a quorum, regardless of the number of members present.
 
-The General Assembly shall pass resolutions - unless otherwise stipulated in these Articles of Association - by a simple majority of the valid votes cast; abstentions shall not be taken into account.
+The [General Assembly](#-13-the-general-assembly) shall pass resolutions - unless otherwise stipulated in these Articles of Association - by a simple majority of the valid votes cast; abstentions shall not be taken into account.
 
 A majority of two-thirds of the valid votes cast is required to amend the Articles of Association (including the purpose of the Association), and a majority of four-fifths of the valid votes cast is required to dissolve the Association.
 
@@ -204,15 +204,15 @@ The following shall apply to elections: If no candidate has achieved a majority 
 
 The manner of voting shall be determined by the chairman of the meeting. The vote must be conducted by secret ballot if one third of the voting members present at the vote request this. 
 
-Minutes are to be taken of the resolutions of the General Assembly, which are to be signed by the respective chairman of the meeting and the keeper of the minutes. It should contain the following statements: Place and time of the meeting, the person of the chairman of the meeting and the keeper of the minutes, the number of members present, the agenda, the individual voting results and the type of voting. In the case of amendments to the Articles of Association, the provision to be amended must be stated.
+Minutes are to be taken of the resolutions of the [General Assembly](#-13-the-general-assembly), which are to be signed by the respective chairman of the meeting and the keeper of the minutes. It should contain the following statements: Place and time of the meeting, the person of the chairman of the meeting and the keeper of the minutes, the number of members present, the agenda, the individual voting results and the type of voting. In the case of amendments to the Articles of Association, the provision to be amended must be stated.
 
-The General Assembly is not public. The chairman of the meeting may admit guests. The General Assembly decides on the admission of the press, radio and television.
+The General Assembly is not public. The chairman of the meeting may admit guests. The [General Assembly](#-13-the-general-assembly) decides on the admission of the press, radio and television.
 
 # § 16 Agenda of the General Assembly
 
-Every member has the right to propose motions for resolutions or for discussion at the General Assembly by notifying the Executive Board in text form in accordance with [§ 7](#7-the-executive-board). This should be done as early as possible and before the invitation. The Executive Board must include the motions received by the day before the invitation is sent in the proposal for the agenda.
+Every member has the right to propose motions for resolutions or for discussion at the General Assembly by notifying the Executive Board in text form in accordance with [§ 7](#7-the-executive-board). This should be done as early as possible and before the invitation. The [Executive Board](#7-the-executive-board) must include the motions received by the day before the invitation is sent in the proposal for the agenda.
 
-Each member may also request in text form that agenda items be subsequently added to the agenda after the invitation has been sent, no later than one week before the day of the General Assembly, by the Executive Board in accordance with [§ 7](#7-the-executive-board). The Executive Board pursuant to [§ 7](#7-the-executive-board) must send the correspondingly supplemented agenda, including the new motions, in text form to all members at least five days before the day of the meeting. Resolutions may only be passed on items that were named in the original or supplemented agenda. Proposals for amendments or additions are also possible in the General Assembly. Amendments to the Articles of Association, the dissolution of the Association and the election and dismissal of members of the Executive Board can only be resolved if a corresponding item on the agenda has already been announced to the members with the proposal for the agenda attached to the ordinary invitation in accordance with [§ 14](#-14-convening-the-general-assembly-video-conference).
+Each member may also request in text form that agenda items be subsequently added to the agenda after the invitation has been sent, no later than one week before the day of the [General Assembly](#-13-the-general-assembly), by the Executive Board in accordance with [§ 7](#7-the-executive-board). The [Executive Board](#7-the-executive-board) must send the correspondingly supplemented agenda, including the new motions, in text form to all members at least five days before the day of the meeting. Resolutions may only be passed on items that were named in the original or supplemented agenda. Proposals for amendments or additions are also possible in the [General Assembly](#-13-the-general-assembly). Amendments to the Articles of Association, the dissolution of the Association and the election and dismissal of members of the [Executive Board](#7-the-executive-board) can only be resolved if a corresponding item on the agenda has already been announced to the members with the proposal for the agenda attached to the ordinary invitation in accordance with [§ 14](#-14-convening-the-general-assembly-video-conference).
 
 # § 17 Extraordinary General Assembly
 
@@ -226,7 +226,7 @@ For the extraordinary general meeting, §§ [13](#-13-the-general-assembly), [14
 
 # § 18 Election of the cash auditors
 
-The general assembly elects 3 cash auditors for a period of 2 years. They must not be supporting members according to § 3b No. 2, members of the board according to [§ 7](#7-the-executive-board), assessors according to § 9 or members who are employed by the association according to § 2 No. 6,7, they do not have to be members of the association. They check the finances of the association and report to the general assembly. They remain in office until the new election of the cash auditors. If one or more auditors resign before the end of the term of office, a by-election must be held at the General Assembly. If the regular general assembly takes place less than 8 weeks before the end of the year, an extraordinary general assemnly must be held at least 8 weeks before the end of the year. The general assembly must elect a new cash auditor for each cash auditor member who has resigned. The newly elected members remain in office until the end of the current term of office.
+The general assembly elects 3 cash auditors for a period of 2 years. They must not be supporting members according to [§ 3b](#3b-rights-and-duties) No. 2, members of the board according to [§ 7](#7-the-executive-board), assessors according to [§ 9](#-9-assessors-and-extended-board-management-board) or members who are employed by the association according to § 2 No. 6,7, they do not have to be members of the association. They check the finances of the association and report to the general assembly. They remain in office until the new election of the cash auditors. If one or more auditors resign before the end of the term of office, a by-election must be held at the General Assembly. If the regular general assembly takes place less than 8 weeks before the end of the year, an extraordinary general assemnly must be held at least 8 weeks before the end of the year. The general assembly must elect a new cash auditor for each cash auditor member who has resigned. The newly elected members remain in office until the end of the current term of office.
 
 # § 19 Dissolution of the Association and Entitlement to Accrual
 
@@ -248,7 +248,7 @@ Insofar as these Articles of Association contain a loophole, the provisions of t
 
 With regard to the provision in [§ 8](#8-election-and-term-of-office-of-the-executive-board) sentence 1 and in [§ 10]([#-10-election-and-term-of-office-of-the-assessors) sentences 1 and 2 (term of office of the Executive Board and the assessors), there is the following exception:
 
-The founding board as well as the board according to [§ 7](#7-the-executive-board) and the assessors according to [§ 9](#-9-assessors-and-extended-board-management-board), who are elected at the general meeting on 01.08.2022, are elected for the period of 6 months from the day of the election. Thereafter, the Executive Board and the assessors shall be newly elected for a term of office of one year. The mentioned elections take place in each case in the context of a meeting of the members according to §§ [13](#-13-the-general-assembly), [14](#-14-convening-the-general-assembly-video-conference), [15](#-15-chairmanship-minutes-and-resolutions-of-the-general-assembly). After the expiration of the two mentioned terms of office of 6 and 12 months, an ordinary general meeting will follow, which will elect a regular 2-year board according to [§ 7](#7-the-executive-board) and corresponding assessors according to [§ 9](#-9-assessors-and-extended-board-management-board). In the event that the elections referred to in the above sentences do not take place within the 6- and 12-month periods, the members of the board and the assessors shall remain in office until the new election has taken place.
+The founding board as well as the board according to [§ 7](#7-the-executive-board) and the assessors according to [§ 9](#-9-assessors-and-extended-board-management-board), who are elected at the general meeting on 01.08.2022, are elected for the period of 6 months from the day of the election. Thereafter, the [Executive Board](#7-the-executive-board) and the [assessors](#-9-assessors-and-extended-board-management-board) shall be newly elected for a term of office of one year. The mentioned elections take place in each case in the context of a meeting of the members according to §§ [13](#-13-the-general-assembly), [14](#-14-convening-the-general-assembly-video-conference), [15](#-15-chairmanship-minutes-and-resolutions-of-the-general-assembly). After the expiration of the two mentioned terms of office of 6 and 12 months, an ordinary general meeting will follow, which will elect a regular 2-year board according to [§ 7](#7-the-executive-board) and corresponding assessors according to [§ 9](#-9-assessors-and-extended-board-management-board). In the event that the elections referred to in the above sentences do not take place within the 6- and 12-month periods, the members of the board and the assessors shall remain in office until the new election has taken place.
 
 # § 24 Coming into force
 
@@ -256,7 +256,7 @@ The Statutes of Association, as written herein, shall become effective immediate
 
 # § 25 Amendments to the Articles of Association by the Executive Board
 
-Amendments or additions to the Statutes of Association prescribed by the competent registration authority or by the tax office shall be implemented by the Executive Board pursuant to [§ 7](#7-the-executive-board) after prior approval by the Extended Board pursuant to [§ 9](#-9-assessors-and-extended-board-management-board) and shall not require a resolution by the General Assembly. They shall be communicated to the members with the next invitation to the general meeting at the latest.
+Amendments or additions to the Statutes of Association prescribed by the competent registration authority or by the tax office shall be implemented by the [Executive Board](#7-the-executive-board) after prior approval by the [Extended Board](#-9-assessors-and-extended-board-management-board) and shall not require a resolution by the [General Assembly](#-13-the-general-assembly). They shall be communicated to the members with the next invitation to the general meeting at the latest.
 
 # § 26 Statutes
 
