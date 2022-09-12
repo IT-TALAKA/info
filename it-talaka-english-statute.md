@@ -292,4 +292,6 @@ The Statutes of Association, as written herein, shall become effective immediate
 
 Amendments or additions to the Statutes of Association prescribed by the competent registration authority or by the tax office shall be implemented by the Executive Board pursuant to [§ 7](#7-the-executive-board) after prior approval by the Extended Board pursuant to [§ 9](#-9-assessors-and-extended-board-management-board) and shall not require a resolution by the General Assembly. They shall be communicated to the members with the next invitation to the general meeting at the latest.
 
-Germany, 01.08.2022
+# § 26 Statutes
+
+The above Statutes of Association are the founding Statutes of Association adopted at the Association's founding meeting on August 01, 2022.
