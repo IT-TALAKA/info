@@ -256,7 +256,7 @@ The executive board according to [§ 7](#7-the-executive-board) can call an extr
   2. if the extended board passes a corresponding resolution
   3. if the convening is demanded by one tenth of all members with voting rights, or by 3 supporting members in text form, stating the purpose and the reasons.
 
-For the extraordinary general meeting, §§ [13](#-13-the-general-assembly), [14](#-14-convening-the-general-assembly-video-conference), [15](#-15-chairmanship-minutes-and-resolutions-of-the-general-assembly) and [16](#-16-agenda-of-the-general-assembly apply accordingly).
+For the extraordinary general meeting, §§ [13](#-13-the-general-assembly), [14](#-14-convening-the-general-assembly-video-conference), [15](#-15-chairmanship-minutes-and-resolutions-of-the-general-assembly) and [16](#-16-agenda-of-the-general-assembly).
 
 # § 18 Election of the cash auditors
 
