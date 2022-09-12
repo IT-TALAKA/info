@@ -111,6 +111,7 @@
 # §4 Termination of membership
 
   1. The membership ends
+  
     a. with the death of the member
     b. by voluntary resignation,
     c. by deletion from the membership list,
