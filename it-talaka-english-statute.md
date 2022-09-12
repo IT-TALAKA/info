@@ -148,3 +148,19 @@ If the last member of the Executive Board with habitual residence in Germany or 
 The Executive Board shall decide by resolution with a simple majority. Resolutions shall be recorded in text form and kept on file.
 
 The Executive board represents the association judicially and extrajudicially. The members of the board have equal rights and are each authorized to represent the association individually. In-itself transactions in the sense of § 181 BGB, in which one or more board members are involved, are only permitted with prior approval by resolution of the extended board in the sense of § 9. For legal transactions with a financial volume of 5,000 euros or more, the Executive Board must be jointly represented by at least 2 Executive Board members in accordance with § 7.
+
+# §8 Election and Term of Office of the Executive Board
+
+The members of the board according to § 7 are elected individually by the General Assembly from among the members for a period of two years, calculated from the day of the election. However, they shall remain in office until the election of a new board. If a member of the board resigns before the end of the term of office, the extended board according to § 9 shall elect a substitute member from among the members of the association as soon as possible for the remaining term of office of the resigned board member. The General Assembly may remove the board member elected in this way by electing another substitute board member to serve until the expiry of the scheduled term of office of the board member who originally left. For this purpose, it may be necessary to convene an Extraordinary General Assembly in accordance with § 17 No 3.
+
+# § 9 Assessors and Extended Board, Management Board
+
+The Extended Board consists of the board members according to § 7 and up to eight additional assessors. The extended board is also considered to be properly staffed without elected assessors. In this case, the Executive Board according to § 7 shall perform the tasks of the Extended Board according to § 9. 
+
+The Extended board manages and is responsible for the business of the association. As a collective body, it makes all relevant decisions for the Association. It shall be headed by a member of the Executive Board in accordance with § 7. The executive board according to § 7 is bound to the decisions of the extended board according to § 9.
+
+The Extended board according to § 9 may appoint one or more managing directors to support it in the performance of its tasks or the tasks of the executive board according to § 7. These shall be engaged by the Executive Board pursuant to § 7 on the basis of a resolution of the Extended Board pursuant to § 9. Managing directors are not organs of the association, they are not special representatives in the sense of §30 BGB. Managing directors do not have to be members of the association. The authorization of the managing directors is governed by § 12.
+
+The Executive Board according to § 7 may, on the basis of a resolution of the Extended Board according to § 9, assign individual tasks or areas of responsibility to the individual members of the Extended Board, the managing directors, members of the Association or third parties, taking into account the distribution of roles defined in § 7. The authorization shall be governed by § 12.
+
+The Extended board according to § 9 can give itself rules of procedure, which must be confirmed by the general assembly. If the extended board does not have rules of procedure for confirmation, the general assembly may adopt rules of procedure on its own initiative.
