@@ -65,13 +65,13 @@
 
   Every member of the association acknowledges the statutes, in particular also the purposes and fields of activity of the association.
   
-  1. "Ordinary members" (§ 3a No 1) have unlimited membership rights and obligations.
-  2. "Supporting members" (§ 3a No 2) support the association ideally and financially. They have voting rights with regard to 
+  1. **"Ordinary members"** (§ 3a No 1) have unlimited membership rights and obligations.
+  2. **"Supporting members"** (§ 3a No 2) support the association ideally and financially. They have voting rights with regard to 
   the request to hold an extraordinary General Assembly in accordance with § 17 sentence 2 no. 3. They are invited to the General Assembly. 
   They receive an annual extended report on the business, projects and work of the Association. They have the right to commission an 
   independent auditing company every three years to carry out a general audit of the Association's accounts on their own account. 
   They are not eligible for election to the bodies of the Association and cannot be cash auditors according to § 18.
-  3. "Honorary members" (No 3) have unrestricted membership rights, they are exempt from the obligation to pay membership fees.
+  3. **"Honorary members"** (No 3) have unrestricted membership rights, they are exempt from the obligation to pay membership fees.
   4. Multiple memberships in the sense of No. 1 to No. 3 are not possible, the change of the type of membership takes 
   place upon application according to § 3c.
 
@@ -82,13 +82,13 @@
   
   Membership is acquired according to the following procedure:
   
-  1. Ordinary membership: the future ordinary member applies for membership in text form (via e-mail) 
+  1. **Ordinary membership**: the future ordinary member applies for membership in text form (via e-mail) 
   or by means of a web form to the Executive Board. Ordinary membership is reserved exclusively for natural persons.
-  2. Supporting membership: The future supporting member applies for membership in text form (via e-mail) or by means of 
+  2. **Supporting membership**: The future supporting member applies for membership in text form (via e-mail) or by means of 
   a web form to the Board of Directors. Legal entities, dependent foundations and associations without legal personality 
   shall name an authorized person as representative in the association when applying; changes must be notified. 
   Until notification, the person authorized at the time of application shall be deemed to be authorized in case of doubt.
-  3. Honorary membership: The honorary membership is offered to the honorary member after the decision of 
+  3. **Honorary membership**: The honorary membership is offered to the honorary member after the decision of 
   the General Assembly by the extended board according to § 7. Acceptance of honorary membership shall be made in text form. 
   Honorary members have the right to vote immediately after acceptance of honorary membership. 
   Honorary membership is reserved exclusively for natural persons.
