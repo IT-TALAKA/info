@@ -1,11 +1,11 @@
-1. Name, seat, business year
+# §1 Name, seat, business year
 
   1. The association has the name Belarus Worldwide Union "IT-Talaka".
   2. The association is a non-profit registered association in the sense of § 21 BGB. The seat and place of jurisdiction is Munich.
   3. The association is politically, ethnically and denominationally neutral.
   4. The business year of the association is the calendar year.
   
-2. Purpose of the association
+# §2 Purpose of the association
 
   1. The association is selflessly active. It does not primarily pursue its own economic purposes. 
   The Association's funds may only be used for purposes in accordance with the Articles of Association.
@@ -53,14 +53,16 @@
   The measure of appropriateness is the non-profit objective of the association. 
   More detailed provisions on the reimbursement of expenses and remuneration may be made by the General Assembly.
   
-3a. Membership
+# §3a Membership
+
   There are three categories of members:
   
   1. Ordinary members
   2. Supporting members
   3. Honorary members
 
-3b. Rights and duties:
+# §3b Rights and duties:
+
   Every member of the association acknowledges the statutes, in particular also the purposes and fields of activity of the association.
   
   1. "Ordinary members" (§ 3a No 1) have unlimited membership rights and obligations.
@@ -73,7 +75,8 @@
   4. Multiple memberships in the sense of No. 1 to No. 3 are not possible, the change of the type of membership takes 
   place upon application according to § 3c.
 
-3c. Acquisition of Membership for Ordinary Members, Supporting Members and Honorary Members
+# §3c Acquisition of Membership for Ordinary Members, Supporting Members and Honorary Members
+
   Membership is open to natural persons of full age under German law and, in general, to legal entities under public or private law 
   as well as dependent foundations or associations without legal personality. 
   
