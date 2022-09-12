@@ -107,3 +107,15 @@
   to the new member as soon as possible, but no later than 2 weeks after receipt of payment in text form.
   9. The voting right is entitled to the new member of the association from the day of membership.
   10. There is no legal claim to membership.
+
+# §4 Termination of membership
+
+  1. The membership ends
+    a. with the death of the member
+    b. by voluntary resignation,
+    c. by deletion from the membership list,
+    d. by exclusion from the association,
+    e. in the case of legal entities, by their dissolution.
+  2. Voluntary resignation shall be effected by a declaration in text form to the Executive Board. 
+  Membership fees already paid will not be refunded, membership fees already due must be paid. The extended board according to §9 can waive the collection of due membership fees. A member can be deleted from the membership list by decision of the board if he/she is in arrears with the payment of the membership fee despite two reminders. The member must be informed of the deletion in text form. A member can be excluded from the association by resolution of the General Assembly if he has grossly violated the interests of the association. Before the resolution is passed, the member must be given the opportunity to justify himself/herself personally. A possible statement of the person concerned in text form is to be read out in the General Assembly.
+  3. Membership shall end upon the death of the member, in the case of voluntary resignation upon receipt of the declaration by the Executive Board, in the case of deletion from the list of members or exclusion upon receipt of the corresponding notification by the member, and in the case of dissolution of legal entities upon their dissolution
