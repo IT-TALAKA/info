@@ -283,3 +283,13 @@ Insofar as these Articles of Association contain a loophole, the provisions of t
 With regard to the provision in [§ 8](#8-election-and-term-of-office-of-the-executive-board) sentence 1 and in [§ 10]([#-10-election-and-term-of-office-of-the-assessors) sentences 1 and 2 (term of office of the Executive Board and the assessors), there is the following exception:
 
 The founding board as well as the board according to [§ 7](#7-the-executive-board) and the assessors according to [§ 9](#-9-assessors-and-extended-board-management-board), who are elected at the general meeting on 01.08.2022, are elected for the period of 6 months from the day of the election. Thereafter, the Executive Board and the assessors shall be newly elected for a term of office of one year. The mentioned elections take place in each case in the context of a meeting of the members according to §§ [13](#-13-the-general-assembly), [14](#-14-convening-the-general-assembly-video-conference), [15](#-15-chairmanship-minutes-and-resolutions-of-the-general-assembly). After the expiration of the two mentioned terms of office of 6 and 12 months, an ordinary general meeting will follow, which will elect a regular 2-year board according to [§ 7](#7-the-executive-board) and corresponding assessors according to [§ 9](#-9-assessors-and-extended-board-management-board). In the event that the elections referred to in the above sentences do not take place within the 6- and 12-month periods, the members of the board and the assessors shall remain in office until the new election has taken place.
+
+# § 24 Coming into force
+
+The Statutes of Association, as written herein, shall become effective immediately and promptly after the close of the founding meeting at which the Statutes of Association were adopted as written herein.
+
+# § 25 Amendments to the Articles of Association by the Executive Board
+
+Amendments or additions to the Statutes of Association prescribed by the competent registration authority or by the tax office shall be implemented by the Executive Board pursuant to [§ 7](#7-the-executive-board) after prior approval by the Extended Board pursuant to [§ 9](#-9-assessors-and-extended-board-management-board) and shall not require a resolution by the General Assembly. They shall be communicated to the members with the next invitation to the general meeting at the latest.
+
+Germany, 01.08.2022
