@@ -164,3 +164,52 @@ The Extended board according to § 9 may appoint one or more managing directors 
 The Executive Board according to § 7 may, on the basis of a resolution of the Extended Board according to § 9, assign individual tasks or areas of responsibility to the individual members of the Extended Board, the managing directors, members of the Association or third parties, taking into account the distribution of roles defined in § 7. The authorization shall be governed by § 12.
 
 The Extended board according to § 9 can give itself rules of procedure, which must be confirmed by the general assembly. If the extended board does not have rules of procedure for confirmation, the general assembly may adopt rules of procedure on its own initiative.
+
+# § 10 Election and term of office of the assessors
+
+The assessors are elected by the general assembly from among the eligible members for a period of two years, starting from the day of the election. The term of office of the assessors corresponds to the term of office of the executive board members according to § 7.
+
+When electing the assessors, the Extended Board and the General Assembly shall actively work towards ensuring that the regions represented in the Association are representedon the Extended Board. In this way, the decentralized structure of the Association shall be made clear.
+
+The election of all assessors shall take place a) individually or b) in a uniform ballot. The general assembly decides on the election procedure before the election begins. It can determine thereby alternatively to a) and b) with the majority of 3/4 of the delivered voices another election procedure.
+
+In the case of the uniform election procedure (b) applies: Each member has as many votes as assessors are to be elected. The member may cast a maximum of one vote per candidate; cumulating votes is not possible. When the votes are counted, the candidates with the most votes are elected. In the event of a tie, a runoff election shall be held among the candidates with the same number of votes.
+
+The assessors shall remain in office until the election of the Extended Board. If an assessor resigns before the end of the term of office, the extended board can elect a substitute member from among the members for the remaining term of office of the resigning assessor. The General Assembly may remove the assessor(s) so re-elected by electing another substitute member elected until the expiration of the scheduled term of office of the regular assessor who has resigned. For this purpose, it may be necessary to convene an Extraordinary General Assembly in accordance with § 17 No 3.
+
+# § 11 Adoption of Resolutions by the Extended Board
+
+The Extended Board shall pass its resolutions in Executive Board meetings, which shall be convened by a member of the Executive Board within the meaning of § 7 - in text form, stating the agenda, with a notice period of 3 days. 
+
+The notice period may be waived if all members of the extended board are present and declare their consent. Members who are not present may waive their participation and declare their consent to the waiver of the notice period in text form by the beginning of the meeting. The consent must in any case be recorded in the minutes.
+
+The extended board shall constitute a quorum if at least five members of the Extended Board, including at least two members of the Executive Board within the meaning of § 7, participate.
+
+The majority of the valid votes cast shall be decisive in the passing of resolutions. In the event of a tie, there shall be no majority. The meeting of the Extended Board shall be chaired by a member of the Executive Board within the meaning of § 7. The resolutions of the Extended Board shall be recorded for evidentiary purposes and signed by the chairperson of the meeting.
+
+Executive Board meetings of the Extended Board with or without the adoption of resolutions may also be held by telephone or by video conference or in hybrid formats if two thirds of the members of the Extended Board agree to this. The consent shall be recorded in the minutes. Paragraphs 1 and 2 shall apply to the convening of the meeting, whereby the manner in which the meeting is to be held shall be communicated when the meeting is convened.
+
+A resolution of the Extended Board may also be passed by circulation in text form if all members of the Extended Board agree to this procedure. Such consent shall be given in text form, kept on file and recorded. Insofar as the Executive Board pursuant to § 7 implements resolutions of the Extended Board, no new resolution by the Executive Board pursuant to § 7 shall be required.
+
+# § 12 Authorizations of assessors, managing directors and third parties; limitation of power of representation
+
+The Executive Board pursuant to § 7 may, on the basis of a resolution of the Extended Board pursuant to § 9, authorize assessors and managing directors within the meaning of § 9, other members or third parties - all of the aforementioned individually or together as a group - to carry out certain legal transactions. The powers of attorney may be limited both internally and externally. In-itself transactions within the meaning of § 181 of the German Civil Code (BGB) are only permitted with the prior consent of the Extended Board. The corresponding resolution shall be recorded in the minutes.
+
+The general assembly may, by resolution, make specifications for the restriction of the powers of attorney mentioned in the previous paragraph.
+
+The General Assembly may, by resolution, limit the power of representation of the Executive Board in accordance with § 7 in the internal relationship and specify the amount and scope of obligations to be entered into. It may make the power of representation in the internal relationship dependent on the approval of the Extended Board in accordance with § 9. The type and financial amount of the restrictions shall be adapted to the respective circumstances. The general assembly may also determine the conditions under which exceptions are permissible. Each exception used must be recorded in writing and listed individually in the annual report and listed separately in the statement of accounts.
+
+# § 13 The General Assembly
+
+The General Assembly is the supreme body of the Association. Every full member present at the general assembly has one vote; this also applies to honorary members. Supporting members do not have the right to vote in the general assembly. They have the right to vote with regard to the request for the holding of an extraordinary general assembly in accordance with § 17 sentence 2 third alternative. The General Assembly is responsible in particular for the following matters:
+
+  1. Acceptance of the annual report of the executive board and the extended board; discharge of the members of the executive board according to § 7 and the assessors according to § 9.
+  2. Acceptance of the report of the treasurer and the auditors according to § 18.
+  3. Determination of the amount and due date of the annual membership fee, the admission fee as well as decisions on expense allowances and remunerations.
+  4. Election and dismissal of the members of the executive board as well as the assessors.
+  5. Resolutions on the amendment of the Articles of Association and on the dissolution of the Association.
+  6. Appointment of honorary members.
+  7. Confirmation or adoption of the rules of procedure of the extended board in terms of § 9.
+  8. Decision on the (non)admission of potential members in the sense of §3c, section 5, who have been rejected by the extended board in the sense of §9.
+  9. Establishment and dissolution of working groups. The General Assembly may adopt rules of procedure for working groups and/or make further provisions. Each working group must have a contact person who keeps the Executive Board and the General Assembly regularly informed about significant activities and developments.
+  10. Election of the auditors according to §18.
