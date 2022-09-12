@@ -247,3 +247,39 @@ The General Assembly is not public. The chairman of the meeting may admit guests
 Every member has the right to propose motions for resolutions or for discussion at the General Assembly by notifying the Executive Board in text form in accordance with [§ 7](#7-the-executive-board). This should be done as early as possible and before the invitation. The Executive Board must include the motions received by the day before the invitation is sent in the proposal for the agenda.
 
 Each member may also request in text form that agenda items be subsequently added to the agenda after the invitation has been sent, no later than one week before the day of the General Assembly, by the Executive Board in accordance with [§ 7](#7-the-executive-board). The Executive Board pursuant to [§ 7](#7-the-executive-board) must send the correspondingly supplemented agenda, including the new motions, in text form to all members at least five days before the day of the meeting. Resolutions may only be passed on items that were named in the original or supplemented agenda. Proposals for amendments or additions are also possible in the General Assembly. Amendments to the Articles of Association, the dissolution of the Association and the election and dismissal of members of the Executive Board can only be resolved if a corresponding item on the agenda has already been announced to the members with the proposal for the agenda attached to the ordinary invitation in accordance with [§ 14](#-14-convening-the-general-assembly-video-conference).
+
+# § 17 Extraordinary General Assembly
+
+The executive board according to [§ 7](#7-the-executive-board) can call an extraordinary general assembly at any time. This must be convened:
+  
+  1. if the interest of the association requires it
+  2. if the extended board passes a corresponding resolution
+  3. if the convening is demanded by one tenth of all members with voting rights, or by 3 supporting members in text form, stating the purpose and the reasons.
+
+For the extraordinary general meeting, §§ [13](#-13-the-general-assembly), [14](#-14-convening-the-general-assembly-video-conference), [15](#-15-chairmanship-minutes-and-resolutions-of-the-general-assembly) and [16](#-16-agenda-of-the-general-assembly apply accordingly).
+
+# § 18 Election of the cash auditors
+
+The general assembly elects 3 cash auditors for a period of 2 years. They must not be supporting members according to § 3b No. 2, members of the board according to [§ 7](#7-the-executive-board), assessors according to § 9 or members who are employed by the association according to § 2 No. 6,7, they do not have to be members of the association. They check the finances of the association and report to the general assembly. They remain in office until the new election of the cash auditors. If one or more auditors resign before the end of the term of office, a by-election must be held at the General Assembly. If the regular general assembly takes place less than 8 weeks before the end of the year, an extraordinary general assemnly must be held at least 8 weeks before the end of the year. The general assembly must elect a new cash auditor for each cash auditor member who has resigned. The newly elected members remain in office until the end of the current term of office.
+
+# § 19 Dissolution of the Association and Entitlement to Accrual
+
+In the event of the dissolution or termination of the Association or in the event of the discontinuation of tax-privileged purposes, the assets of the Association shall be transferred to a legal entity under public law or to another tax-privileged corporation for the purpose of promoting an international spirit, tolerance in all areas of culture and international understanding.
+
+# § 20 Membership data
+
+An up-to-date list of members with their contact details will be made available to members by the Executive Board upon request. The prerequisite for inclusion in this list provided is the prior consent of the respective member in text form. For reasons of data protection, the list may not be passed on by members to third parties and may only be used for internal association purposes. It is forbidden to the board without the consent of the respective member in text form to pass on the contact data of the members to third parties, unless there is a legal obligation.
+
+# § 21 Regional groups
+
+The members of the Association may join together in regional sub-groups which are active in or from their respective region. The General Meeting shall determine the details.
+
+# § Section 22 Supplementary Provisions
+
+Insofar as these Articles of Association contain a loophole, the provisions of the German Civil Code shall apply. Should any provision be invalid, the remaining provisions shall continue to apply without prejudice.
+
+# § 23 Transitional Provisions
+
+With regard to the provision in [§ 8](#8-election-and-term-of-office-of-the-executive-board) sentence 1 and in [§ 10]([#-10-election-and-term-of-office-of-the-assessors) sentences 1 and 2 (term of office of the Executive Board and the assessors), there is the following exception:
+
+The founding board as well as the board according to [§ 7](#7-the-executive-board) and the assessors according to [§ 9](#-9-assessors-and-extended-board-management-board), who are elected at the general meeting on 01.08.2022, are elected for the period of 6 months from the day of the election. Thereafter, the Executive Board and the assessors shall be newly elected for a term of office of one year. The mentioned elections take place in each case in the context of a meeting of the members according to §§ [13](#-13-the-general-assembly), [14](#-14-convening-the-general-assembly-video-conference), [15](#-15-chairmanship-minutes-and-resolutions-of-the-general-assembly). After the expiration of the two mentioned terms of office of 6 and 12 months, an ordinary general meeting will follow, which will elect a regular 2-year board according to [§ 7](#7-the-executive-board) and corresponding assessors according to [§ 9](#-9-assessors-and-extended-board-management-board). In the event that the elections referred to in the above sentences do not take place within the 6- and 12-month periods, the members of the board and the assessors shall remain in office until the new election has taken place.
