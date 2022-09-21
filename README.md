@@ -1,6 +1,6 @@
 # Statute
 
-Please read the statute of the IT-Talaka: Belarus Worldwide Union (Association in formation) that is available under the link.
+Please review [the Statute of the IT-Talaka: Belarus Worldwide Union (Association in formation)](statute.md).
 
 # Imprint
 
