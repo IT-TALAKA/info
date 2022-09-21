@@ -2,7 +2,7 @@
 
 Please review [the Statute of the IT-Talaka: Belarus Worldwide Union (Association in formation)](statute.md).
 
-# Board: 
+# Board
 
 - Denis Bruev
 - Aleksandrina Kalesnikava
