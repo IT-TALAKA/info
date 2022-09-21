@@ -5,9 +5,16 @@ Please read the statute of the IT-Talaka: Belarus Worldwide Union (Association i
 # Imprint
 
 Belarusian worldwide Union "IT-Talaka" V.i.G. (Association in formation)
+
 Munich, Germany
+
 Board: 
-Denis Bruev, Aleksandrina Kalesnikava, Aliaksandr Khomich, Aliaksei Stankevich, Anton Niadzelka (Treasurer)
+
+- Denis Bruev
+- Aleksandrina Kalesnikava
+- Aliaksandr Khomich
+- Aliaksei Stankevich
+- Anton Niadzelka (Treasurer)
 
 # Contact
 
