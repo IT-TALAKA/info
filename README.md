@@ -10,6 +10,11 @@ Please review [the Statute of the IT-Talaka: Belarus Worldwide Union (Associatio
 - Aliaksei Stankevich
 - Anton Niadzelka (Treasurer)
 
+# Social Networks
+
+- [Facebook](https://www.facebook.com/it.talaka)
+- [Telegram](https://t.me/it_talaka)
+
 # Contact
 
 board@it-talaka.org
