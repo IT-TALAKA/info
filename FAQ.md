@@ -1,4 +1,3 @@
-
 # FAQ
 
 ## Why shall YOU come on board?
@@ -26,6 +25,12 @@ We need you as you might:
 1. Mentor less experienced members.
 1. Enreach our network.
 1. Contribute to future projects.
+
+## Why did you decide to strengthen the IT-community based on a registered association?
+
+As a registered charitable association we will be able to open a bank account, hire people and own/rent real estate. Additionaly we will receive discounts on a lot of web services, e.g. Slack, Google Workspaces, AWS etc.
+
+A registered association is also an insurance that the democratic rules defined in [the Statute](statute.md) will be held.
 
 ## How do we make decisions?
 
