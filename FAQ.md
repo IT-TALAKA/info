@@ -26,7 +26,7 @@ We need you as you might:
 1. Enreach our network.
 1. Contribute to future projects.
 
-## Why did you decide to strengthen the IT-community based on a registered association?
+## Why did we decide to strengthen the IT-community based on a registered association?
 
 As a registered charitable association we will be able to open a bank account, hire people and own/rent real estate. Additionaly we will receive discounts on a lot of web services, e.g. Slack, Google Workspaces, AWS etc.
 
