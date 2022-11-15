@@ -1,6 +1,6 @@
 # IT-Talaka: Belarus worldwide Union
 
-IT-Talaka is an association of Belarusian IT-specialists around the world. The union is aimed at strengthening the IT-community, developing digital services for the civic society and representing Belarusian IT around the globe.
+IT-Talaka is an association of Belarusian IT-specialists around the world. The union is aimed at strengthening the IT-community, developing digital services for the civil society and representing Belarusian IT around the globe.
 
 [it-talaka.org](https://it-talaka.org)
 
