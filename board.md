@@ -1,10 +1,10 @@
 # Board
 
-The [Extended Board](#extended-board) manages and is responsible for the business of the association. The first Extended Board was elected on 01.08.2022. It's tasks are: register the organisation, work on the structure, accept new members. The next elections will happen on 01.02.2023 at the latest as mentioned in [the Transition Provisions](statute.md#-23-transitional-provisions).
+The [Extended Board](#extended-board) manages and is responsible for the business of the association. The first Extended Board was elected on 01.08.2022, the second (current) on 24.01.2023. It's tasks are: work on the structure, accept new members. The next elections will happen on 24.07.2023 at the latest as mentioned in [the Transition Provisions](statute.md#-23-transitional-provisions).
 
 ## Executive Board
 
-The following members have been elected on 01.08.2022 to the IT-Talaka's Executive Board for the next 6 months:
+The following members have been elected on 01.08.2022 and reelected on 24.01.2023 to the IT-Talaka's Executive Board for the next 6 months:
 
 - Denis Bruev
 - Aleksandrina Kalesnikava
