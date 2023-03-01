@@ -41,7 +41,7 @@ Members of IT-Talaka can call [the Extraordinary General Assembly](statute.md#-1
 
 ## How do we finance the organisation?
 
-At the moment all the work is done by volunteers. Members of the organisatins pay an admission fee of 25 Euros and an annual fee of 60 Euros (30 Euros in the year 2022). The collected fees are used to pay for cloud accounts and other digital services of the Union. 
+At the moment all the work is done by volunteers. Members of the organisatins pay an admission fee of 25 Euros and an annual fee of 60 Euros. The collected fees are used to pay for cloud accounts and other digital services of the Union. 
 
 More information about the Fees can be found in [the Statute §5](statute.md#5-membership-fees)
 
@@ -49,13 +49,14 @@ More information about the Fees can be found in [the Statute §5](statute.md#5-m
 
 The Extended board has to present the financial report of all spendings at the end of each year. The report and all the bookkeeping has to be thoroughly reviewed by Cash auditors. [The Extended Board](board.md#extended-board) has to step down in case the auditors notice transactions that go against the statute.
 
-In the moment we have 2 Cash auditors that were chosen on 01.08.2022. The next elections has to happen on 01.02.2023 at the latest as mentioned in [the Transition Provisions](statute.md#-23-transitional-provisions). Additionaly IT-Talaka will be regularly checked by the German Tax Office.
+In the moment we have 1 Cash auditor that was chosen on 24.01.2023. The next elections has to happen on 24.07.2023 at the latest as mentioned in [the Transition Provisions](statute.md#-23-transitional-provisions). Additionaly IT-Talaka will be regularly checked by the German Tax Office.
 
 More information about the Cash Auditors can be found in [the Statute §18](statute.md#-18-election-of-the-cash-auditors)
 
-## Why are we registring IT-Talaka in Germany?
+## Why have we registered IT-Talaka in Germany?
 
 1. Inability to officially unite people inside Belarus free of risks for the participants.
 1. Limited access to the Internet, monitoring by the authorities and de-anonymization of users in Belarus. Constant threat of Internet disconnection.
 1. Distrust among Belarusians to non-transparent organizational structures in other countries.
 1. Just a few countries can open an NGO, whose members can be people from all over the world. But German law allows it.
+1. Multiple founders live in Germany.
